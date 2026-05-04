@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "extensions": [
+    {
+      "id": "test-extension",
+      "name": "Test Extension",
+      "version": "1.0.0",
+      "category": "Herramientas",
+      "description": "Extensión de prueba desde la nube.",
+      "icon_url": "https://beto220588.github.io/extensions-store/extensions/test-extension/icon.svg",
+      "package_url": "https://beto220588.github.io/extensions-store/extensions/test-extension/test-extension.zip",
+      "sha256": "",
+      "permissions": []
+    }
+  ]
+}
