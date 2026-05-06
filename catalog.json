@@ -18,8 +18,8 @@
       "version": "1.0.0",
       "category": "Productividad",
       "description": "Guarda y exporta contenido web a PDF, Word, TXT, Markdown, HTML e imagen.",
-      "icon_url": "https://beto220588.github.io/extensions-store/extensions/office-helper.svg",
-      "package_url": "https://beto220588.github.io/extensions-store/extensions/office-helper.zip",
+      "icon_url": "https://beto220588.github.io/extensions-store/extensions/office-helper/icon.svg",
+      "package_url": "https://beto220588.github.io/extensions-store/extensions/office-helper/office-helper.zip",
       "sha256": "",
       "permissions": ["downloads", "tabs"]
     }
